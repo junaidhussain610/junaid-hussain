@@ -1,2 +1,1 @@
-# junaid-hussain
-software engineer with different skills like management quality assurance and web development
+Software engineer with different skills like Quality assurance, Bugs detecto, Software Maintenance and web development
